@@ -7,7 +7,7 @@
 - ⚡ Fun fact: A SQL query goes into a bar, walks up to two tables and asks, “Can I join you?”
 
 I flew the oceans (🇨🇺 -> 🇺🇾 -> 🇺🇸) so we could meet here at this corner of the internet.
-If you like what you read here, you can also visit my website to get a little more of me than code. [Mari's personal website](https://www.mlescaille.com/)
+If you like what you read here, you can also visit my website to get a little more of me than code [Mari's personal website](https://www.mlescaille.com/).
 
 <!--
 **mlescaille/mlescaille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
