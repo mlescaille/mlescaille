@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on backend systems at [Survata](https://www.survata.com/)
-- 💬 Ask me about APIs, backend development, Grails, Spring.
+- 💬 Ask me about Distributed systems, APIs, backend development, Grails, Spring.
 - 📫 How to reach me: Shoot me an email if you have it or hit those Twitter DMs at my [profile](https://twitter.com/mlescaille).
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: A SQL query goes into a bar, walks up to two tables and asks, “Can I join you?”
