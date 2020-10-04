@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on backend systems at [Survata](https://www.survata.com/)
+- 🔭 I’m currently working on backend systems at [Netflix](https://www.netflix.com/)
 - 💬 Ask me about Distributed systems, APIs, backend development, Grails, Spring.
 - 📫 How to reach me: Shoot me an email if you have it or hit those Twitter DMs at my [profile](https://twitter.com/mlescaille).
 - 😄 Pronouns: she/her
